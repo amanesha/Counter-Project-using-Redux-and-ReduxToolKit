@@ -2,6 +2,9 @@
 
 It show the counter project using vanila reduxa and reduxtoolkit to demonestrate the 
 difference between redux and reduxtoolkit.
+## Screeshot
+![A test image](t1.PNG)
+![A test image](t2.PNG)
 
 
 ## How to setup
